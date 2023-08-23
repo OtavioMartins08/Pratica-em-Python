@@ -12,7 +12,6 @@ Olá a todos! Este repositório foi criado como um espaço para compartilhar e a
 🤝 **Contribuições:** Eu adoraria receber feedback, sugestões e contribuições da comunidade! Se você encontrar algo que possa ser aprimorado ou tiver alguma ideia legal, fique à vontade para abrir um problema ou enviar uma solicitação de pull.
 
 🔗 **Links Úteis:**
-- [Meu Site Pessoal](seusite.com)
 - [LinkedIn](https://www.linkedin.com/in/ot%C3%A1vio-martins-45b0b625b/)
 - [Instagram](https://www.instagram.com/otavio_martins281/)
 
